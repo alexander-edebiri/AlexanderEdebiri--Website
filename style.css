@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+  text-align: center;
+}
+
+.nfl {
+  color: red;
+  font-size: 18px;
+}
+
+body {
+  background-color: pink;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 200px;
+}
